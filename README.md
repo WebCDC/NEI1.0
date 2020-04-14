@@ -9,8 +9,8 @@ Núcleo de Estudantes de Informática da Universidade de Aveiro webpage 1.0.
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* Clone the repo: `git clone https://github.com/user-cube/NEI_Website`
-* [Fork, Clone, or Download on GitHub](https://github.com/user-cube/NEI_Website)
+* Clone the repo: `git clone https://github.com/WebCDC/NEI1.0`
+* [Fork, Clone, or Download on GitHub](https://github.com/WebCDC/NEI1.0)
 
 ## Authors
 * [Rui Coelho](https://github.com/user-cube)
